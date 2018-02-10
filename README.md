@@ -3,7 +3,7 @@ This is a descripitve portfolio about me.
 
 as of 10th Feb 2018
 
-By Rebecca Sila
+By {Rebecca Sila}(https://github.com/3RebeccaSila3/My-New-Portfolio.git)
 
 ## Description
 
