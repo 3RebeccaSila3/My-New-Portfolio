@@ -1,1 +1,31 @@
-
+body {
+  background-color: #1a0000;
+  color: white;
+}
+.name {
+  text-align: center;
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.nav li a {
+  display: inline;
+}
+.reb {
+  background-image: url("../img/work.jpg");
+  background-size:cover;
+  height:80vh;
+  opacity:50;
+  text-align: center;
+}
+.header ul li a {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    float: : right;
+    text-align: center;
+}
+.h1 {
+  margin-top: 15%;
+}
